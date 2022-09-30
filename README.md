@@ -1,3 +1,7 @@
+Deployed page
+Your site is live at https://aishwaryapandey987.github.io/pathfinding-visualizer-pathfinder/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
