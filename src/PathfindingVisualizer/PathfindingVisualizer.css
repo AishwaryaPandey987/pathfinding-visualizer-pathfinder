@@ -1,0 +1,16 @@
+.grid{
+  justify-content: center;
+  margin: 4px;
+  padding: 9px;
+
+}
+.node{
+  width: 30px;
+  height: 30px;
+}
+
+
+.fade-out{
+  opacity: 0;
+  transition: opacity 1s ease;
+}

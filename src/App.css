@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.info{
+  display: flex;
+  margin: auto;
+  padding: auto;
+}
+.btn1{
+  color: blue;
+  margin: 7px;
+  padding: 7px;
+}
+.btn2{
+  color: blue;
+  margin: 7px;
+  padding: 7px;
+}
+.header {
+  background-color: #282c34;
+  min-height: 14vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
